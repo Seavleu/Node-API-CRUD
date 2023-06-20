@@ -55,3 +55,4 @@ To run the API locally, follow these steps:
   ```
 
 Feel free to explore and modify the API according to your needs. Enjoy!
+Get Full Tutorial from this great guy here: https://youtu.be/9OfL9H6AmhQ
