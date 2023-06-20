@@ -27,7 +27,7 @@ To run the API locally, follow these steps:
 4. Start the API server:
 
    ```shell
-   npm start
+   npm run dev
    ```
 
    The API will be accessible at `http://localhost:3000`.
@@ -49,6 +49,9 @@ To run the API locally, follow these steps:
 ### Dependencies
 
 - Express.js - Web framework for handling HTTP requests and routes.
-- Mongoose - MongoDB object modeling tool for interacting with the database.
+- Mongoose - MongoDB object modeling tool for interacting with the database. Visit here: https://www.npmjs.com/package/mongoose
+  ```shell
+  npm i mongoose
+  ```
 
 Feel free to explore and modify the API according to your needs. Enjoy!
