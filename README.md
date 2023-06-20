@@ -1,6 +1,3 @@
-# Node-API-CRUD
-Sure! Here's an example of an instruction and summary for the README file in your GitHub repository:
-
 ## Node API CRUD
 
 This is a simple Node.js API for performing CRUD (Create, Read, Update, Delete) operations on a MongoDB database. The API uses Express.js as the web framework and Mongoose as the MongoDB object modeling tool.
